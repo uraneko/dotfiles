@@ -1,0 +1,18 @@
+# font = "/usr/share/fonts/TTF/NotoSansNerdFontPropo-ExtraCondensedThin.ttf"
+
+## sizing
+width = 600
+height = 600
+font-size = 18
+
+## corners-radiuses
+corner-radius = 8
+border-width = 0
+outline-width = 0
+
+## colors
+background-color = #111111
+text-color = #d6e4a5
+selection-color = #986e83
+# border-color = #556677ff
+# outline-color = #111234

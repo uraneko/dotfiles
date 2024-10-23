@@ -1,0 +1,35 @@
+{
+  "start": [
+    "aerial:nvim",
+    "Comment:nvim",
+    "fidget:nvim",
+    "gitsigns:nvim",
+    "lsp-format:nvim",
+    "neovim-codicons",
+    "nvim-dap",
+    "nvim-dap-ui",
+    "nvim-lint",
+    "nvim-lspconfig",
+    "nvim-navic",
+    "nvim-nio",
+    "nvim-notify",
+    "nvim-treesitter",
+    "nvim-treesitter-textobjects",
+    "nvim-treesitter-textsubjects",
+    "nvim-ts-autotag",
+    "nvim-web-devicons",
+    "plenary:nvim",
+    "telescope:nvim"
+  ],
+  "opt": [],
+  "themes": [
+    "CatNvim",
+    "darkrose:nvim",
+    "mellow:nvim",
+    "twilight256:vim",
+    "xedit:vim",
+    "yorumi:nvim",
+    "yuejiu",
+    "yugen:nvim"
+  ]
+}

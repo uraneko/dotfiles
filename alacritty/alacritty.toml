@@ -1,0 +1,51 @@
+# theme file 
+general.import = [
+  	"alacritty-theme/themes/oxacarbon.toml"
+  ]
+
+terminal.shell = { program = "/usr/bin/tmux", args = ["-u"] }
+
+# window = { opacity = 0.6, blur = true }
+
+#scrolling = { multiplier = 4 }
+
+[font]
+# normal = { family = "Noto Serif Tangut", style = "Regular" }  
+# size = 12
+# offset = { y = 5, x = 3 }
+
+[keyboard]
+bindings = [
+	# { key = "N", mods = "Control", action = "CreateNewWindow" },
+	# { key = "W", mods = "Control", action = "Quit" },
+]
+
+# [window]
+# opacity = 0.84
+
+# #default colors
+# [colors.primary]
+# background = '#1d2021'
+# foreground = '#fbf1c7'
+#
+# #normal colors
+# [colors.normal]
+# black = '#3c3836'  # bg1
+# red = '#fb4934'
+# green = '#b8bb26'
+# blue = '#83a598'
+# white = '#ebdbb2' # fg1
+# yellow = '#fabd2f'
+# magenta = '#fe8019' #orange
+# cyan = '#a4c6b9' # blue-lighter
+#
+# #bright colors
+# [colors.bright]
+# black = '#3c3836'  # bg1
+# red = '#fb4934'
+# green = '#b8bb26'
+# blue = '#83a598'
+# white = '#ebdbb2' # fg1
+# yellow = '#fabd2f'
+# magenta = '#fe8019' #orange
+# cyan = '#a4c6b9' # blue-lighter
